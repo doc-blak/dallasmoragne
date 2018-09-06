@@ -1,9 +1,28 @@
 h1 {
   color: Orange;
   }
-  .container {
+.container {
     background-color: Red;
   }
-  body {
+body {
     background-color: Blue;
+  }
+.navbar li{
+  display: inline;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfzFIm72Sp39ZyExJSrai7mCerlhasLoXp24w9TYQjLgHoDEs");
+  }
+.login {
+  float: right;
+  }
+
+.login a {
+  cursor: pointer;
+  margin-right: 30px
+  padding: 8px 18px
+  border: 1px solid #204156
+  position: relative;
+  }
+
+.login a:active {
+  top: 5px;
   }
