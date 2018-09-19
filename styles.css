@@ -1,28 +1,53 @@
 h1 {
   color: Orange;
   }
+
+.containerR {
+  background-color: #990000;
+}
+
 .container {
-    background-color: Red;
-  }
+  background-color: Red;
+}
+
 body {
     background-color: Blue;
   }
+
 .navbar li{
   display: inline;
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStfzFIm72Sp39ZyExJSrai7mCerlhasLoXp24w9TYQjLgHoDEs");
   }
+
 .login {
   float: right;
   }
 
 .login a {
   cursor: pointer;
-  margin-right: 30px
-  padding: 8px 18px
-  border: 1px solid #204156
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
   position: relative;
   }
 
 .login a:active {
   top: 5px;
   }
+
+  .Rh1 {
+    color: #ff4d4d;
+  }
+
+  .bh1 {
+    color: blue;
+  }
+
+.Oh1 {
+  color: Orange;
+}
+
+.main img {
+  height: 450px;
+  width: 600px;
+}
